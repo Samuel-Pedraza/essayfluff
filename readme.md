@@ -4,6 +4,13 @@ This project helps you reach that ever elusive word count.
 
 Please understand that you should read over the essay after it is submitted, to make sure it sounds correct and edit where needed. This isn't a perfect program, plus proofreading is good for writing papers.
 
+#Downloading Ruby
+
+This literally takes like 10 minutes. So don't be a bum. Download it.
+
+Click [here](https://www.ruby-lang.org/en/documentation/installation/#rubyinstaller). Seriously. Do it.
+
+
 # How to use
 
 Download the project to your desktop, and copy your essay into a .txt document.
